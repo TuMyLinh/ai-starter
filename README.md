@@ -6,12 +6,10 @@ Giảng viên: TS. Đỗ Như Tài
 Học sinh: Từ Mỹ Linh 
 ## Nội dung 
 Khởi động dự án AI, làm quen với công cụ App Inventor và GitHub Pages. 
-## App-Inventor
-Bài 01: Thực hành làm quen với App Inventor 
-Bài 02: Tạo Ứng Dụng Voice Calculator 
+## Bài tập thực hành
+Bài 01: Bài tập thực hành các thành phần cơ bản của Python 
 ## Tham Khảo 
 Tài liệu AI căn bản 
-Hướng dẫn App Inventor 
 ## Thông tin cá nhân 
 Họ tên: Từ Mỹ Linh 
 Email: linhtu.31231022779@st.ueh.edu.vn
